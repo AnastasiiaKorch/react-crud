@@ -1,0 +1,12 @@
+.app__btn {
+    height: 45px;
+    width: 45px;
+    background-image: url("https://cdn.icon-icons.com/icons2/1147/PNG/512/1486486306-arrow-back-before-circular-circle-rewind_81243.png");
+    background-size: cover;
+    background-color: white;
+    border-radius: 25px;
+
+}
+.app__title-box {
+    padding-left: 40px;
+}

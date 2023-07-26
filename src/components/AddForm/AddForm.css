@@ -1,0 +1,13 @@
+.app__form {
+    margin-left: 35px;
+    margin-top: 35px;
+}
+.form__btn {
+    background-image: url("https://cdn.icon-icons.com/icons2/3939/PNG/512/share_arrow_icon_250748.png");
+    background-size: cover;
+    height: 45px;
+    width: 45px;
+    background-color: white;
+    border: none;
+    margin-left: -40px;
+}

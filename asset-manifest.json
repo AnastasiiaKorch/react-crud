@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnastasiiaKorch/react-crud/static/css/main.f5232e7c.css",
+    "main.js": "/AnastasiiaKorch/react-crud/static/js/main.4cdab0c4.js",
+    "index.html": "/AnastasiiaKorch/react-crud/index.html",
+    "main.f5232e7c.css.map": "/AnastasiiaKorch/react-crud/static/css/main.f5232e7c.css.map",
+    "main.4cdab0c4.js.map": "/AnastasiiaKorch/react-crud/static/js/main.4cdab0c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5232e7c.css",
+    "static/js/main.4cdab0c4.js"
+  ]
+}
